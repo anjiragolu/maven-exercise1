@@ -7,8 +7,8 @@ package com.mycompany.app;
 public class App 
 {
    System.out.println("robo2.0");
-   /**public static void main( String[] args )
+   public static void main( String[] args )
     {
         
-    }*/
+    }
 }
